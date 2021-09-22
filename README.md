@@ -1,10 +1,3 @@
----
-layout: post
-title: NumberGuesser Game in C# / Wie ertselle ich if/else statements?
----
-
-
-
 # NumberGuesser Game in C# / Wie ertselle ich if/else statements?
 ### Aufgabenstellung und Ziele 
 ##### Aufgabenstellung :
