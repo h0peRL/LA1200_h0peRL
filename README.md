@@ -36,7 +36,6 @@ else   //wenn alles obere nicht zutrifft
 _______________________________________________________________________________________________
 ```
 
-So sieht der Aufbau eines if/else statements aus.
 ### If/else statements in einem Beispiel als Bild (2).    
 Um einen weiteren Einblick zu erhalten wie dies aussieht, ist hier ein Bild aus einer praktischen Anwendung.
 ![](https://cdn.discordapp.com/attachments/669155152468377610/890141946700496936/Screen_Portfolio.png)
