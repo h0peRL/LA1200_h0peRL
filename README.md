@@ -8,14 +8,7 @@ title: NumberGuesser Game in C# / Wie ertselle ich if/else statements?
 # NumberGuesser Game in C# / Wie ertselle ich if/else statements?
 ### Aufgabenstellung und Ziele 
 ##### Aufgabenstellung :
-1. Der Computer generiert eine Zufallszahl zwischen 1 - 100 und speichert diese.
-2. Der Benutzer soll die Zahl erraten können.
-3. Für jede geratene Zahl wird etwas ausgegeben:
-    a) Die geratene Zahl ist niedriger als die Geheimzahl.  
-    b) Die geratene Zahl ist grösser als die Geheimzahl.
-    c) Die Geheimzahl wurde erraten. 
-4. Wenn die Zahl erraten wurde, soll die Anzahl versuche ausgegeben werden.
-5. Das Programm soll mit Fehleingaben umgehen oder sie vermeiden können.
+Ich habe ein NumberGuesser Game programmiert
 
 ##### Ziele : 
 1. Der Leser soll if/else Codes verstehen können und wissen wofür man sie verwendet.
