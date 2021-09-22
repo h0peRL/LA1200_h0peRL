@@ -43,8 +43,11 @@ Um einen weiteren Einblick zu erhalten wie dies aussehen könnte, ist hier ein B
 So sieht es in der Konsole aus:
 
 Im 1. wird überprüft, ob eine Eingabe Zahlen enthält.
+
 Im 2. wird überprüft, ob die eingegebene Zahl kleiner ist als die Zufallszahl.
+
 Im 3. wird überprüft, ob die eingegebene Zahl grösser ist als die Zufallszahl.
+
 Im 4. kann nur noch überprüft werden, ob die eingegebene Zahl gleich ist wie die Zufallszahl. Deswegen ist diese in einem else statement.
 
 Je nach statement, werden andere Texte ausgegeben.
