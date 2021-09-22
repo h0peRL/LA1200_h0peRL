@@ -1,7 +1,7 @@
 # NumberGuesser Game in C# / Wie ertselle ich if/else statements?
 ### Aufgabenstellung und Ziele 
 ##### Aufgabenstellung :
-Ich habe ein NumberGuesser Game programmiert
+Ich habe mit C# ein NumberGuesser Game programmiert.
 
 ##### Ziele : 
 1. Der Leser soll if/else Codes verstehen können und wissen wofür man sie verwendet.
