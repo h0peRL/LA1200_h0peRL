@@ -8,7 +8,7 @@ Ich habe mit C# ein NumberGuesser Game programmiert.
 2. Dem Leser zeigen, wie man if/else Codes korrekt schreibt.
 3. Der Leser soll nach diesem Eintrag wissen wie man if/else Codes verwendet.
 
-### Inhalt 1
+### Aufbau if/else (1)
 If/else statements werden verwendet um eine Verweigungungen in einem Proghramm zu erstellen. Sie sind die meistverwendeten Codes für Verzweigungen. Andere Arten um Verzweigungen zu schreiben ist z.B ein switch/case, jedoch sind if/else statements einfacher zu verstehen.
 
 Da wir nun Wissen wie man sie verwendet, kommen wir nun zum Aufbau:
@@ -37,7 +37,7 @@ ________________________________________________________________________________
 ```
 
 So sieht der Aufbau eines if/else statements aus.
-### Inhalt 2    
+### If/else statements in einem Beispiel als Bild (2)    
 Um einen weiteren Einblick zu erhalten wie dies aussieht, ist hier ein Bild aus einer praktischen Anwendung.
 ![](https://cdn.discordapp.com/attachments/669155152468377610/890141946700496936/Screen_Portfolio.png)
 So sieht es in der Konsole aus:
@@ -49,7 +49,7 @@ Im 4. kann nur noch überprüft werden, ob die eingegebene Zahl gleich ist wie d
 
 Je nach statement, werden andere Texte ausgegeben.
 
-### Inhalt 3
+### If/else statements in einem Beispiel als Video (3)    
 Ein Video könnte helfen:
 [Video](https://www.youtube.com/watch?v=sc96iSCEwok)
 ### Verifikation + Reflektion
