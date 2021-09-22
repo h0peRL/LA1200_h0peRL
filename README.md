@@ -8,7 +8,7 @@ Ich habe mit C# ein NumberGuesser Game programmiert.
 2. Dem Leser zeigen, wie man if/else Codes korrekt schreibt.
 3. Der Leser soll nach diesem Eintrag wissen wie man if/else Codes verwendet.
 
-### Aufbau if/else (1)
+### Erklärung und Aufbau if/else (1)
 If/else statements werden verwendet um eine Verweigungungen in einem Proghramm zu erstellen. Sie sind die meistverwendeten Codes für Verzweigungen. Andere Arten um Verzweigungen zu schreiben ist z.B ein switch/case, jedoch sind if/else statements einfacher zu verstehen.
 
 Da wir nun Wissen wie man sie verwendet, kommen wir nun zum Aufbau:
