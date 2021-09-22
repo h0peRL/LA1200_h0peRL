@@ -39,6 +39,7 @@ ________________________________________________________________________________
 ### If/else statements in einem Beispiel als Bild (2).    
 Um einen weiteren Einblick zu erhalten wie dies aussehen könnte, ist hier ein Bild aus einer praktischen Anwendung.
 ![](https://cdn.discordapp.com/attachments/669155152468377610/890141946700496936/Screen_Portfolio.png)
+
 So sieht es in der Konsole aus:
 
 Im 1. wird überprüft, ob eine Eingabe Zahlen enthält.
