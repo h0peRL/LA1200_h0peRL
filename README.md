@@ -53,7 +53,11 @@ Je nach statement, werden andere Texte ausgegeben.
 Ein Video könnte helfen:
 [Video](https://www.youtube.com/watch?v=sc96iSCEwok)
 ### Verifikation + Reflektion
+
+##### Verifikation
 Ziel 1,2 und 3: Dominik hat meinen Eintrag verstanden und konnte in einem eigenen Programm if/else statements verwenden.
 
+
+##### Reflerktion
 --> Das Projekt ist ziemlich gut gelaufen. Ich hatte keine Probleme während des Projektes mit if/else statements. Das einzige negaive ist, das ich go to Befehle in meinem Projekt verwendet habe, jedoch betrifft das nicht die if/else statements.
 Mein Arbeitsklima war sehr angenehm und soweit gut. Aber beim Arbeiten, sollte ich ein wenig fokussierter auf die Arbeit sein, da ich mich durch meine Mitschüler schnell Ablenken lasse.
